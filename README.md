@@ -56,19 +56,23 @@ Main Panel
 
 Image with river, dry sediment, forest vegetation, sky and wood in river
 
-<img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-1.jpg" width="415"/> <img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-1-labeled.png" width="415"/>
+<img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-1.jpg"/> 
+<img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-1-labeled.png"/>
 
 Image with river, dry sediment and boat
 
-<img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-2.jpg" width="415"/> <img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-2-labeled.png" width="415"/>
+<img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-2.jpg"/>
+<img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-2-labeled.png"/>
 
 Image with river, dry sediment, forest vegetation, senescent vegetation, sky and wood in river
 
-<img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-3.jpg" width="415"/> <img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-3-labeled.png" width="415"/>
+<img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-3.jpg"/> 
+<img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-3-labeled.png"/>
 
 Image with river, self, dry sediment, forest vegetation, senescent vegetation, sky and wood in river
 
-<img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-4.jpg" width="415"/> <img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-4-labeled.png" width="415"/>
+<img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-4.jpg"/>
+<img src="https://raw.githubusercontent.com/EdisonPricehan/PixelAnnotationTool/master/images_test/wildcat-example-4-labeled.png"/>
 
 ### Download binaries :
 Go to release [page](https://github.com/abreheret/PixelAnnotationTool/releases)

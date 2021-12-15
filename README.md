@@ -31,15 +31,15 @@ How to build go to [here](scripts_to_build)
 
 ### Labeling Criteria
 #### Label Meaning and Reason
-* <font color=blue>**boat**</font> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; maybe we can locate boat
-* <font color=#b03a2e>**bridge** </font> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; obstacle that both drone and boat need to avoid
-* <font color=yellow>**dry sediment** </font> &emsp;&emsp;&emsp;&emsp; safe area where drone can land
-* <font color=green>**forest vegetation** </font> &emsp;&emsp;&nbsp; tall trees that drone cannot land upon
-* <font color=purple>**river** </font> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; safe area where boat can drive
-* <font color=black>**self** </font> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; drone body itself
-* <font color=orange>**senescent vegetation** </font> &nbsp; grassland where drone can land, can be combined with dry sediment
-* <font color=#85c1e9>**sky** </font> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; can be combined with forest vegetation
-* <font color=#7e5109>**wood in river** </font> &emsp;&emsp;&emsp;&emsp; obstacle that boat needs to avoid
+* ![boat](https://via.placeholder.com/15/0033FF/000000?text=+) **boat** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; maybe we can locate boat
+* ![bridge](https://via.placeholder.com/15/922b21/000000?text=+) **bridge**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; obstacle that both drone and boat need to avoid
+* ![dry sediment](https://via.placeholder.com/15/f4d03f/000000?text=+) **dry sediment** &emsp;&emsp;&emsp;&emsp; safe area where drone can land
+* ![forest vegetation](https://via.placeholder.com/15/2ecc71/000000?text=+) **forest vegetation** &emsp;&emsp;&nbsp; tall trees that drone cannot land upon
+* ![river](https://via.placeholder.com/15/9b59b6/000000?text=+) **river** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; safe area where boat can drive
+* ![self](https://via.placeholder.com/15/000000/000000?text=+) **self** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; drone body itself
+* ![senescent vegetation](https://via.placeholder.com/15/e67e22/000000?text=+) **senescent vegetation** &nbsp; grassland where drone can land, can be combined with dry sediment
+* ![sky](https://via.placeholder.com/15/85c1e9/000000?text=+) **sky** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; can be combined with forest vegetation
+* ![wood in river](https://via.placeholder.com/15/784212/000000?text=+) **wood in river** &emsp;&emsp;&emsp;&emsp; obstacle that boat needs to avoid
 
 #### Label Rules
 * Every visible category needs to be labeled, like small wood in river that sticks out of river.

@@ -1,11 +1,15 @@
 #!/bin/bash
 
+sudo apt-get install mesa-common-dev
+sudo apt-get install libopencv-dev python-opencv
+sudo apt-get install qt5-default
+
 if [ -d "build" ]; then
 	rm -r build
 fi
 mkdir build
 cd build
-cmake -DQT5_DIR=/home/amaury/Qt5.9.1/5.9.1/gcc_64/lib/cmake -G"Unix Makefiles" ../..
+cmake -G "Unix Makefiles" ../..
 make
 cd ..
 

@@ -7,6 +7,14 @@
 
 ## build and run on linux :
 
+Run the script build_linux.sh in scripts_to_build folder and you will install all the dependencies and compile to have a build folder that contains the executable called "PixelAnnotationTool".
+
+Run
+```shell
+./PixelAnnotationTool
+```
+to open the panel, and you can neglect the below procedures.
+
 On ubuntu, PixelAnnotationTool need this pacakage (OpenCV and Qt5.9.1): 
 
 ```sh
